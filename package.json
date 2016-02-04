@@ -1,0 +1,28 @@
+{
+  "name": "Gulp-Test",
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "devDependencies": {
+    "bower": "latest",
+    "event-stream": "latest",
+    "gulp": "latest",
+    "gulp-angular-templatecache": "latest",
+    "gulp-cached": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-filelog": "^0.4.1",
+    "gulp-filenames": "latest",
+    "gulp-inject": "latest",
+    "gulp-rename": "latest",
+    "gulp-uglify": "latest",
+    "gulp-wait": "0.0.2",
+    "jasmine-core": "latest",
+    "karma": "latest",
+    "karma-jasmine": "latest",
+    "main-bower-files": "latest",
+    "open": "latest",
+    "rimraf": "latest",
+    "run-sequence": "latest"
+  }
+}

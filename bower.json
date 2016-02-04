@@ -1,0 +1,22 @@
+{
+  "name": "Gulp-Test",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Ciro Ferreira da Cruz"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cirocfc/AngularJS",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-ui-router": "latest"
+  }
+}
